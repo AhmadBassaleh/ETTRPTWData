@@ -1,0 +1,19 @@
+StringID   Type       x          y          demand     ReadyTime    DueDate      ServiceTime 
+D0         d          40.0       50.0       0.0        0.0          1236.0       0.0         
+S0         f          40.0       50.0       0.0        0.0          1236.0       0.0         
+S1         f          31.0       84.0       0.0        0.0          1236.0       0.0         
+S2         f          39.0       26.0       0.0        0.0          1236.0       0.0         
+C30        c2         20.0       55.0       10.0       355.0        407.0        90.0        
+C12        c2         25.0       85.0       20.0       176.0        228.0        90.0        
+C100       c1         55.0       85.0       20.0       744.0        798.0        90.0        
+C85        c1         68.0       60.0       30.0       737.0        809.0        90.0        
+C64        c2         48.0       30.0       10.0       263.0        325.0        90.0        
+
+E Battery capacity        77.75     
+W^1 Truck load capacity   50.00     
+W^2 Trailer load capacity 150.00    
+F^1 Truck cost            850.00    
+F^2 Complete vehicle cost 1000.00   
+alpha Energy consumption per unit distance 1.00      
+beta Energy replenished per unit waiting time 3.47      
+v Average velocity        1.00      

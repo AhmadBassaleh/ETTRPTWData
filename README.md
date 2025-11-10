@@ -1,5 +1,5 @@
 # ETTRPTWData
-This repository serves to provide the data used in the Electric Truck and Trailer Routing Problem with Time Windows (ETTRPTW).
+This repository provides the dataset used in the Electric Truck and Trailer Routing Problem with Time Windows (ETTRPTW).
 
 The instances are formatted as follows:
 
@@ -24,3 +24,6 @@ The instances are formatted as follows:
 -"alpha Energy consumption per unit distance":      reduction of battery capacity when traveling one unit of distance
 -"beta Energy replenished per unit waiting time":     units of time required to recharge one unit of energy
 -"v average Velocity":           assumed to be constant on all arcs, required to calculate the travel time from distance
+
+Modifications required for adapting this dataset to the EVRPTW and ESDVRPTW variants are discussed in Section 5 of the paper.
+Feel free to email me if you have any questions: ahbassaleh@shockers.wichita.edu
